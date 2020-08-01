@@ -1,4 +1,4 @@
-# -Computer-Vision---Image-Basics-with-OpenCV-and-Python-Using-Jupyter-Notebook
+# Computer-Vision-Image-Basics-with-OpenCV-and-Python-Using-Jupyter-Notebook
    
   1.Open an Image with Matplotlib
   
